@@ -1,0 +1,33 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+
+.navbar {
+    background-color: #688A08;
+}
+
+.quem-somos {
+    background-color: #2E9AFE;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #81DAF5;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
